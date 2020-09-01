@@ -2,4 +2,4 @@
 /mysql/*
 /logs/*
 /www/*
-!/www/default.test
+!/www/default.test/phpinfo.php
